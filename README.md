@@ -1,1 +1,7 @@
-# wti.github.io
+# wti
+- wit
+- twi
+- tiw
+- iwt
+- itw
+
